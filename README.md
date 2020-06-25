@@ -17,7 +17,9 @@ Goal(s): RDS Data in Tableau.
 
 ### Project 4
 Goal(s): Analyze Data in Data Warehouse
+
   i.e: Connect the Redshift to Tableau Online and create a dashboard to visualie the total net income for all sellers each month, the sellers’ last names sorted by the net income, and the cities with total net income.
+  
   Connect the Redshift to QuickSight, and create a visualization that can compare the total price and the total sold price.     Visualize: the total sold price per month with forecasting, the number of shows in each category, the narrative comparison between the total sold price and the total price the anomaly in the total sold price.
 
 ### Project 5
@@ -28,6 +30,7 @@ Data used:
 - NOAA Global Historical Climatology Network Daily (GHCN-D) data, more details: https://docs.opendata.aws/noaa-ghcn-pds/readme.html
 
 Use Athena to query the ELB log data in S3
+
 Explore the NOAA data via Athena. Create two visualizations showing the number of records for snow and
 precipitation, and the recorded snows and precipitations over the past years.
 
