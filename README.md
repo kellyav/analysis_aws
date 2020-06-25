@@ -3,6 +3,8 @@
 ## Technology Entrepreneurship 480
 Professor: Dr. Xuebin Wei // weixx@jmu.edu
 
+~~ Currently working on uploading the projects here!! ~~
+
 ### Project 1
 Goal(s): Import the Boston housing dataset from the S3 bucket to visualize the data in Jupyter. 
 
